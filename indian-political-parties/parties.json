@@ -1,0 +1,26 @@
+[
+  {
+    "partyName": "Indian National Congress",
+    "abbreviation": "INC",
+    "color": "#1E90FF",
+    "symbolUrl": "https://github.com/jan76sru/asd/blob/main/indian-political-parties/logos/congresslogo.jpg?raw=true",
+    "leaders": [
+      {
+        "name": "Rahul Gandhi",
+        "faceUrl": "https://github.com/jan76sru/asd/blob/main/indian-political-parties/faces/rahulgandhi.jpg?raw=true"
+      }
+    ]
+  },
+  {
+    "partyName": "Bharatiya Janata Party",
+    "abbreviation": "BJP",
+    "color": "#FF9933",
+    "symbolUrl": "https://github.com/jan76sru/asd/blob/main/indian-political-parties/logos/bjplogo.jpg?raw=true",
+    "leaders": [
+      {
+        "name": "Narendra Modi",
+        "faceUrl": "https://github.com/jan76sru/asd/blob/main/indian-political-parties/faces/narendra%20modi.png?raw=true"
+      }
+    ]
+  }
+]
